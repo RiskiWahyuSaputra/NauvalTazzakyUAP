@@ -1,3 +1,3 @@
 <?php 
-echo "Nauval Tazzakyy" 
+echo "Nauval Tazzaky" 
 ?>
